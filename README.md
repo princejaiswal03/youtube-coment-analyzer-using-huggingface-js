@@ -7,6 +7,7 @@ This extension requires a Youtube API Key (YoutubeApiV3) which can be generated 
 ![](https://github.com/princejaiswal03/youtube-comeent-analyzer-using-huggingface/blob/main/public/icons/ycm-api-key-add.jpg)
 
 Have the option to clear the API key as well:
+
 ![](https://github.com/princejaiswal03/youtube-comeent-analyzer-using-huggingface/blob/main/public/icons/ycm-spinner.png)
 
 The final Analysis will have bar charts and some other stats:
