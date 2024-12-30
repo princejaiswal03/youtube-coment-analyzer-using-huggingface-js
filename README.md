@@ -4,7 +4,6 @@ Youtube comment analyzer is a browser extension that uses the huggingface transf
 Transformer Model used for Sentiment Analysis: `Xenova/distilbert-base-uncased-finetuned-sst-2-english`
 
 This extension requires a Youtube API Key (YoutubeApiV3) which can be generated from [Google Cloud](https://console.cloud.google.com/).
-
 ![](https://github.com/princejaiswal03/youtube-comeent-analyzer-using-huggingface/blob/main/public/icons/ycm-api-key-add.jpg)
 
 Have the option to clear the API key as well:
