@@ -1,7 +1,17 @@
 # youtube-comeent-analyzer-using-huggingface
 Youtube comment analyzer is a browser extension which uses huggingface transformer[*Transformer.js*] model and provde sentiment for a given video.
 
-Transformer Model used for Sentiment Analysis: Xenova/distilbert-base-uncased-finetuned-sst-2-english
+Transformer Model used for Sentiment Analysis: `Xenova/distilbert-base-uncased-finetuned-sst-2-english`
+
+This extension requires Youtube API Key (YoutubeApiV3) which can be generated from [Google Cloud](https://console.cloud.google.com/).
+
+![](https://github.com/princejaiswal03/youtube-comeent-analyzer-using-huggingface/blob/main/public/icons/ycm-api-key-add.jpg)
+
+Have option clear the API key as well:
+![](https://github.com/princejaiswal03/youtube-comeent-analyzer-using-huggingface/blob/main/public/icons/ycm-spinner.png)
+
+Final Analysis will have bar charts and some other stats:
+![](https://github.com/princejaiswal03/youtube-comeent-analyzer-using-huggingface/blob/main/public/icons/ycm-analysis.png)
 
 ## Getting Started
 1. Clone the repo and enter the project directory:
